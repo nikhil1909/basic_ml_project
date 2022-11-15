@@ -6,6 +6,7 @@ ineuron machine learning project
 2. [Heroku account](https://dashboard.heroku.com/login)
 3. [VS Code IDE](https://code.visualstudio.com/download)
 4. [GIT cli](https://git-scm.com/downloads)
+5. [GIT Documentation](https://git-scm.com/docs/gittutorial)
 
 Creating conda environment
 ```
@@ -59,7 +60,7 @@ To check remote url
 git remote -v
 ```
 
-Docker
-```
-Doc
-```
+To setup CI/CD pipeline, we need 3 information
+1. HEROKU_EMAIL = jaiswalnikhil28@gmail.com
+2. HEROKU_API_KEY = a64814f2-d804-41e1-ad57-d19abaa8877e
+3. HEROKU_APP_NAME = 
