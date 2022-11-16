@@ -62,7 +62,7 @@ git remote -v
 
 To setup CI/CD pipeline, we need 3 information
 1. HEROKU_EMAIL = jaiswalnikhil28@gmail.com
-2. HEROKU_API_KEY = a64814f2-d804-41e1-ad57-d19abaa8877e
+2. HEROKU_API_KEY = <>
 3. HEROKU_APP_NAME = ml-regression-app-0
 
 BUILD DOCKER IMAGE
